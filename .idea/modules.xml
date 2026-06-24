@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Digital_nuture.iml" filepath="$PROJECT_DIR$/.idea/Digital_nuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Module_1_designPatterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/Week 1/Module_1_designPatterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Module_2_Algorithms_DataStructures/Module_2_Algorithms_DataStructures.iml" filepath="$PROJECT_DIR$/Week 1/Module_2_Algorithms_DataStructures/Module_2_Algorithms_DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Module_1_designPatterns/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/Week 1/Module_1_designPatterns/SingletonPatternExample/SingletonPatternExample.iml" />
+    </modules>
+  </component>
+</project>
