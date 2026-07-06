@@ -1,243 +1,300 @@
-# CTS Digital Nurture 5.0 - Java Full Stack Engineer (FSE)
+# CTS Digital Nurture 5.0 – Java Full Stack Engineer Learning Repository
 
-## Overview
+Welcome to my **CTS Digital Nurture 5.0** learning repository. This repository contains all the concepts, notes, code examples, exercises, and mini-projects completed during the Cognizant Digital Nurture 5.0 Java Full Stack Engineer training program.
 
-This repository contains my hands-on solutions, practice exercises, and learning progress from the Cognizant Digital Nurture 5.0 Java Full Stack Engineer (FSE) training program.
-
-The repository is organized week-wise and covers core software engineering concepts including:
-
-* Design Patterns
-* SOLID Principles
-* Data Structures & Algorithms
-* PL/SQL Programming
-* Unit Testing with JUnit
-* Mocking with Mockito
-* Logging Frameworks
-* Spring Framework
-* Spring Boot
-* REST APIs
-* Microservices
-* Full Stack Development
+The repository is organized week-wise to track my progress throughout the program.
 
 ---
 
-## Repository Structure
+# 🚀 Technologies Covered
 
-```text
-cts_digital_nurture_5.0
+* Java
+* Object-Oriented Programming (OOP)
+* Design Patterns
+* SOLID Principles
+* Spring Framework
+* Spring Boot 3
+* Spring Data JPA
+* Hibernate
+* RESTful Web Services
+* Maven
+* JUnit 5
+* Mockito
+* SonarQube
+* Swagger / OpenAPI
+* MySQL
+* Git & GitHub
+
+---
+
+# 📅 Week 1 – Core Java & Spring Fundamentals
+
+## Module 1 – Design Patterns & Principles
+
+* SOLID Principles
+* Creational Design Patterns
+* Structural Design Patterns
+* Behavioral Design Patterns
+* Dependency Injection
+* Inversion of Control (IoC)
+* Best Practices
+
+---
+
+## Module 2 – Spring Framework
+
+* Spring Architecture
+* IoC Container
+* Bean Lifecycle
+* Dependency Injection
+* Spring Configuration
+* Spring MVC
+* Spring Boot Introduction
+
+---
+
+## Module 3 – Spring Boot
+
+* Spring Boot Features
+* Auto Configuration
+* Spring Boot Starters
+* Project Structure
+* Configuration Files
+* Profiles
+* Logging
+* Exception Handling
+
+---
+
+## Module 4 – Testing & Logging
+
+### Unit Testing
+
+* JUnit 5
+* Assertions
+* Test Lifecycle
+* Parameterized Tests
+
+### Mockito
+
+* Mock Objects
+* MockBean
+* Spy
+* Verify
+* Stubbing
+
+### Logging
+
+* SLF4J
+* Logback
+* Logging Levels
+* Best Practices
+
+---
+
+# 📅 Week 2 – Code Quality, Persistence & Database
+
+## Module 5 – SonarQube
+
+### Code Quality
+
+* Static Code Analysis
+* Clean as You Code
+* Technical Debt
+* Code Smells
+* Bugs
+* Vulnerabilities
+
+### SonarQube Architecture
+
+* Web Server
+* Compute Engine
+* Elasticsearch
+* Sonar Database
+
+### Quality Management
+
+* Quality Profiles
+* Quality Gates
+* Rule Management
+* Security Hotspots
+
+### Integration
+
+* Maven Integration
+* Spring Boot Integration
+* Sonar Scanner
+* CI/CD Integration
+
+---
+
+## Module 6 – Spring Data JPA & Hibernate
+
+### Spring Data JPA
+
+* Repository Pattern
+* CrudRepository
+* JpaRepository
+* Paging and Sorting
+* Query Methods
+* Custom Queries
+* JPQL
+* Native SQL Queries
+
+### Entity Management
+
+* Entity Mapping
+* Relationships
+* Cascade Types
+* Fetch Types
+* Auditing
+
+### Hibernate
+
+* Hibernate Architecture
+* Entity Lifecycle
+* Persistence Context
+* First-Level Cache
+* Batch Processing
+* Hibernate Properties
+* Dialects
+* Hibernate-specific Annotations
+
+### Spring Boot Integration
+
+* Auto Configuration
+* Database Configuration
+* Transaction Management
+* Best Practices
+
+---
+
+# 📅 Week 3 – REST APIs & API Documentation
+
+## Module 7 – RESTful Web Services
+
+### REST Fundamentals
+
+* REST Architecture
+* REST Constraints
+* Resources
+* URI Design
+* HTTP Methods
+* Status Codes
+
+### Spring REST
+
+* @RestController
+* @RequestMapping
+* @GetMapping
+* @PostMapping
+* @PutMapping
+* @DeleteMapping
+* @PatchMapping
+
+### Request Handling
+
+* Path Variables
+* Request Parameters
+* Request Body
+* ResponseEntity
+* Validation
+
+### Exception Handling
+
+* Global Exception Handling
+* @ControllerAdvice
+* Custom Exceptions
+* Error Responses
+
+### Serialization
+
+* Jackson
+* JSON Processing
+* DTO Pattern
+
+### REST Best Practices
+
+* Versioning
+* Pagination
+* Filtering
+* Sorting
+* HATEOAS Concepts
+* Idempotency
+* Stateless APIs
+
+---
+
+## Testing REST APIs
+
+* JUnit 5
+* Mockito
+* Spring Test
+* MockMvc
+* Integration Testing
+* Test Coverage
+* API Testing Best Practices
+
+---
+
+## API Documentation
+
+* Swagger
+* OpenAPI
+* Springdoc OpenAPI
+* Interactive API Documentation
+* API Documentation Best Practices
+
+---
+
+# 📂 Repository Structure
+
+```
+CTS_Digital_Nurture_5.0
 │
-├── Week_1
-│   ├── Design_Patterns_And_Principles
-│   ├── Data_Structures_And_Algorithms
-│   ├── PL_SQL_Programming
-│   ├── JUnit_And_Mockito
-│   └── Logging_Frameworks
+├── Week-1
+│   ├── Module-1-Design-Patterns
+│   ├── Module-2-Spring-Framework
+│   ├── Module-3-Spring-Boot
+│   └── Module-4-Testing-and-Logging
 │
-├── Week_2
-│   └── (To be added)
+├── Week-2
+│   ├── Module-5-SonarQube
+│   └── Module-6-Spring-Data-JPA-Hibernate
 │
-├── Week_3
-│   └── (To be added)
+├── Week-3
+│   └── Module-7-REST-API
 │
 └── README.md
 ```
 
 ---
 
-## Technologies Used
+# 🎯 Learning Objectives
 
-### Programming Languages
-
-* Java
-* SQL
-* PL/SQL
-
-### Testing Frameworks
-
-* JUnit 4
-* JUnit 5
-* Mockito
-
-### Build Tools
-
-* Maven
-
-### Logging
-
-* SLF4J
-* Logback
-
-### Version Control
-
-* Git
-* GitHub
+* Understand Java Full Stack development concepts.
+* Learn Spring Boot application development.
+* Build RESTful APIs using Spring Boot.
+* Implement database operations using Spring Data JPA and Hibernate.
+* Improve code quality using SonarQube.
+* Perform unit and integration testing.
+* Document APIs using Swagger/OpenAPI.
+* Follow industry-standard coding practices.
 
 ---
 
-# Week 1 Progress
+# 📌 Repository Purpose
 
-## Design Patterns & Principles
-
-### Implemented Exercises
-
-* Singleton Pattern
-* Factory Method Pattern
-
-### Concepts Covered
-
-* Creational Design Patterns
-* Object Creation Best Practices
-* Loose Coupling
-* Encapsulation
+This repository serves as my personal learning journal throughout the CTS Digital Nurture 5.0 program. It contains structured notes, hands-on exercises, coding examples, and practical implementations that reinforce Java Full Stack development concepts.
 
 ---
 
-## Data Structures & Algorithms
+## 👨‍💻 Author
 
-### Implemented Exercises
+**Kamal A**
 
-* E-Commerce Platform Search Function
-* Financial Forecasting
-
-### Concepts Covered
-
-* Linear Search
-* Binary Search
-* Time Complexity Analysis
-* Recursion
-* Algorithm Optimization
+Java Full Stack Developer | Final-Year Computer Science Engineering Student
 
 ---
 
-## PL/SQL Programming
-
-### Implemented Exercises
-
-* Control Structures
-* Stored Procedures
-
-### Concepts Covered
-
-* Cursors
-* Procedures
-* Functions
-* Exception Handling
-* Transactions
-
----
-
-## JUnit Testing
-
-### Implemented Exercises
-
-* Setting Up JUnit
-* Assertions in JUnit
-* AAA Pattern
-* Test Fixtures
-* Setup and Teardown
-
-### Concepts Covered
-
-* Unit Testing
-* Assertions
-* Test Lifecycle
-* Test Organization
-
----
-
-## Mockito Framework
-
-### Implemented Exercises
-
-* Mocking and Stubbing
-* Verifying Interactions
-
-### Concepts Covered
-
-* Mock Objects
-* Stubbing
-* Verification
-* Dependency Isolation
-
----
-
-## Logging Frameworks
-
-### Implemented Exercises
-
-* Error Logging
-* Warning Logging
-
-### Concepts Covered
-
-* Logging Levels
-* Application Monitoring
-* Debugging Best Practices
-* Log Configuration
-
----
-
-## Learning Outcomes - Week 1
-
-By completing Week 1, I gained practical experience in:
-
-* Applying common design patterns
-* Analyzing algorithm efficiency
-* Writing PL/SQL programs and procedures
-* Creating unit tests using JUnit
-* Mocking dependencies using Mockito
-* Implementing application logging using SLF4J
-* Managing Java projects using Maven
-* Version control using Git and GitHub
-
----
-
-## How to Run Java Projects
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Kamal1506/cts_digital_nurture_5.0.git
-```
-
-### Navigate to Project
-
-```bash
-cd cts_digital_nurture_5.0
-```
-
-### Compile
-
-```bash
-mvn clean compile
-```
-
-### Run Tests
-
-```bash
-mvn test
-```
-
----
-
-## Future Roadmap
-
-* Complete remaining Digital Nurture modules
-* Add Spring Framework exercises
-* Add Spring Boot projects
-* Add REST API implementations
-* Add Microservices hands-on exercises
-* Add Full Stack development projects
-
----
-
-## Author
-
-Kamal
-
-BE Computer Science and Engineering
-
-Cognizant Digital Nurture 5.0 - Java FSE Track
-
-GitHub:
-https://github.com/Kamal1506
+⭐ If you find this repository useful, feel free to star it!
