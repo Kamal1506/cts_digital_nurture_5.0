@@ -1,4 +1,4 @@
-# CTS Digital Nurture 5.0 – Java Full Stack Engineer Learning Repository
+# CTS Digital Nurture 5.0 – Java Full Stack Engineer - Java FSE
 
 Welcome to my **CTS Digital Nurture 5.0** learning repository. This repository contains all the concepts, notes, code examples, exercises, and mini-projects completed during the Cognizant Digital Nurture 5.0 Java Full Stack Engineer training program.
 
