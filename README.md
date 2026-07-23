@@ -117,23 +117,34 @@ Topics covered include:
 
 This repository is now a complete journey from backend Java development to modern full-stack development, covering both Spring-based microservices and Angular-based frontend applications.
 
+The revised structure is organized as follows:
 
-```
-CTS_Digital_Nurture_5.0
-│
-├── Week-1
-│   ├── Module-1-Design-Patterns
-│   ├── Module-2-Spring-Framework
-│   ├── Module-3-Spring-Boot
-│   └── Module-4-Testing-and-Logging
-│
-├── Week-2
-│   ├── Module-5-SonarQube
-│   └── Module-6-Spring-Data-JPA-Hibernate
-│
-├── Week-3
-│   └── Module-7-REST-API
-│
+```text
+Digital_nurture/
+├── week_1/
+│   ├── Module_1_designPatterns/
+│   └── Module_2_Algorithms_DataStructures/
+├── week_2/
+│   ├── Spring_Core_Maven/
+│   └── Spring_Data_JPA_with_Spring_Boot_Hibernate/
+├── week_3/
+│   ├── 1.spring-rest-handson/
+│   ├── 2.spring-rest-handson/
+│   └── 5.JWT_handson/
+├── week_4/
+│   ├── Exercise_Creating_Microservices/
+│   └── Exercise_Eureka_Discovery_Server/
+├── week_5/
+│   ├── HANDS-ON-1-Environment-Setup-Project-Structure-First-Component/
+│   ├── HANDS-ON-2-Data-Binding-Lifecycle-Hooks-Component-Communication/
+│   ├── HANDS-ON-3-Directives-Pipes/
+│   ├── HANDS-ON-4-Template-Driven-Forms-Validation/
+│   ├── HANDS-ON-5-Reactive-Forms/
+│   ├── HANDS-ON-6-Services-Dependency-Injection/
+│   ├── HANDS-ON-7-Angular-Routing-Guards-Lazy-Loading/
+│   ├── HANDS-ON-8-HTTP-Client-Observables-Interceptors/
+│   ├── HANDS-ON-9-State-Management-NgRx/
+│   └── HANDS-ON-10-Unit-Testing-Jasmine-Karma/
 └── README.md
 ```
 
