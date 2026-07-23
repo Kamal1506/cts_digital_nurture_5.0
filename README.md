@@ -1,253 +1,122 @@
-# CTS Digital Nurture 5.0 – Java Full Stack Engineer - Java FSE
+# CTS Digital Nurture 5.0 – Java Full Stack Engineer
 
-Welcome to my **CTS Digital Nurture 5.0** learning repository. This repository contains all the concepts, notes, code examples, exercises, and mini-projects completed during the Cognizant Digital Nurture 5.0 Java Full Stack Engineer training program.
+Welcome to the updated repository for the CTS Digital Nurture 5.0 program. This workspace contains hands-on exercises, mini-projects, and learning materials completed during the Java Full Stack Engineer training, now expanded to include Angular frontend development and microservices architecture.
 
-The repository is organized week-wise to track my progress throughout the program.
-
----
-
-# 🚀 Technologies Covered
-
-* Java
-* Object-Oriented Programming (OOP)
-* Design Patterns
-* SOLID Principles
-* Spring Framework
-* Spring Boot 3
-* Spring Data JPA
-* Hibernate
-* RESTful Web Services
-* Maven
-* JUnit 5
-* Mockito
-* SonarQube
-* Swagger / OpenAPI
-* MySQL
-* Git & GitHub
+The repository is organized week-wise and reflects both backend and frontend learning paths.
 
 ---
 
-# 📅 Week 1 – Core Java & Spring Fundamentals
+## 🚀 Technologies Covered
 
-## Module 1 – Design Patterns & Principles
-
-* SOLID Principles
-* Creational Design Patterns
-* Structural Design Patterns
-* Behavioral Design Patterns
-* Dependency Injection
-* Inversion of Control (IoC)
-* Best Practices
-
----
-
-## Module 2 – Spring Framework
-
-* Spring Architecture
-* IoC Container
-* Bean Lifecycle
-* Dependency Injection
-* Spring Configuration
-* Spring MVC
-* Spring Boot Introduction
+- Java
+- Object-Oriented Programming (OOP)
+- Design Patterns and SOLID Principles
+- Spring Framework and Spring Boot
+- Spring Data JPA and Hibernate
+- RESTful Web Services
+- Maven
+- JUnit 5 and Mockito
+- Logging with SLF4J
+- Microservices with Spring Cloud
+- Eureka Discovery Server
+- API Gateway
+- Angular
+- TypeScript
+- Reactive Forms, Services, Routing, and NgRx
+- Git and GitHub
 
 ---
 
-## Module 3 – Spring Boot
+## 📚 What This Repository Includes
 
-* Spring Boot Features
-* Auto Configuration
-* Spring Boot Starters
-* Project Structure
-* Configuration Files
-* Profiles
-* Logging
-* Exception Handling
+This repository now covers:
 
----
-
-## Module 4 – Testing & Logging
-
-### Unit Testing
-
-* JUnit 5
-* Assertions
-* Test Lifecycle
-* Parameterized Tests
-
-### Mockito
-
-* Mock Objects
-* MockBean
-* Spy
-* Verify
-* Stubbing
-
-### Logging
-
-* SLF4J
-* Logback
-* Logging Levels
-* Best Practices
+- Core Java and backend development fundamentals
+- Spring Boot-based application development
+- REST API design and implementation
+- Database persistence with JPA and Hibernate
+- Testing with JUnit and Mockito
+- Microservices architecture and service discovery
+- Angular frontend development with components, forms, services, and routing
+- State management and unit testing in Angular
 
 ---
 
-# 📅 Week 2 – Code Quality, Persistence & Database
+## 📅 Learning Structure
 
-## Module 5 – SonarQube
+### Week 1 – Core Java and Design Patterns
 
-### Code Quality
+Topics covered include:
+- OOP concepts
+- SOLID principles
+- Creational, structural, and behavioral design patterns
+- Dependency injection and inversion of control
 
-* Static Code Analysis
-* Clean as You Code
-* Technical Debt
-* Code Smells
-* Bugs
-* Vulnerabilities
+### Week 2 – Spring Framework and Persistence
 
-### SonarQube Architecture
+Topics covered include:
+- Spring Core and Spring Boot
+- Dependency injection and bean management
+- Spring Data JPA and Hibernate
+- Database integration and transaction handling
 
-* Web Server
-* Compute Engine
-* Elasticsearch
-* Sonar Database
+### Week 3 – REST APIs and Backend Services
 
-### Quality Management
+Topics covered include:
+- RESTful web services
+- Spring REST controllers
+- Request/response handling
+- Validation and exception handling
+- Swagger/OpenAPI documentation
 
-* Quality Profiles
-* Quality Gates
-* Rule Management
-* Security Hotspots
+### Week 4 – Microservices
 
-### Integration
+Topics covered include:
+- Microservices architecture basics
+- Independent services and service boundaries
+- Eureka Discovery Server
+- API Gateway
+- Service registration and discovery
+- Inter-service communication concepts
 
-* Maven Integration
-* Spring Boot Integration
-* Sonar Scanner
-* CI/CD Integration
+### Week 5 – Angular Frontend Development
 
----
-
-## Module 6 – Spring Data JPA & Hibernate
-
-### Spring Data JPA
-
-* Repository Pattern
-* CrudRepository
-* JpaRepository
-* Paging and Sorting
-* Query Methods
-* Custom Queries
-* JPQL
-* Native SQL Queries
-
-### Entity Management
-
-* Entity Mapping
-* Relationships
-* Cascade Types
-* Fetch Types
-* Auditing
-
-### Hibernate
-
-* Hibernate Architecture
-* Entity Lifecycle
-* Persistence Context
-* First-Level Cache
-* Batch Processing
-* Hibernate Properties
-* Dialects
-* Hibernate-specific Annotations
-
-### Spring Boot Integration
-
-* Auto Configuration
-* Database Configuration
-* Transaction Management
-* Best Practices
+Topics covered include:
+- Angular project setup and component architecture
+- Data binding and lifecycle hooks
+- Directives and pipes
+- Template-driven and reactive forms
+- Services and dependency injection
+- Routing, guards, and lazy loading
+- HTTP client and observables
+- Interceptors and NgRx state management
+- Jasmine and Karma testing
 
 ---
 
-# 📅 Week 3 – REST APIs & API Documentation
+## 📂 Repository Structure
 
-## Module 7 – RESTful Web Services
-
-### REST Fundamentals
-
-* REST Architecture
-* REST Constraints
-* Resources
-* URI Design
-* HTTP Methods
-* Status Codes
-
-### Spring REST
-
-* @RestController
-* @RequestMapping
-* @GetMapping
-* @PostMapping
-* @PutMapping
-* @DeleteMapping
-* @PatchMapping
-
-### Request Handling
-
-* Path Variables
-* Request Parameters
-* Request Body
-* ResponseEntity
-* Validation
-
-### Exception Handling
-
-* Global Exception Handling
-* @ControllerAdvice
-* Custom Exceptions
-* Error Responses
-
-### Serialization
-
-* Jackson
-* JSON Processing
-* DTO Pattern
-
-### REST Best Practices
-
-* Versioning
-* Pagination
-* Filtering
-* Sorting
-* HATEOAS Concepts
-* Idempotency
-* Stateless APIs
+- week_1/ – Core Java, design patterns, and fundamentals
+- week_2/ – Spring Core, Spring Boot, and JPA/Hibernate exercises
+- week_3/ – REST API and Spring REST handson projects
+- week_4/ – Microservices hands-on including account service, loan service, Eureka server, and API gateway
+- week_5/ – Angular learning modules and projects covering components, forms, routing, services, and state management
 
 ---
 
-## Testing REST APIs
+## 🧭 How to Use This Repository
 
-* JUnit 5
-* Mockito
-* Spring Test
-* MockMvc
-* Integration Testing
-* Test Coverage
-* API Testing Best Practices
+- Open each week folder to explore the related exercises and projects.
+- Follow the folders in order for a structured learning path.
+- Use the README files inside individual modules for setup and instructions.
+- Review the code examples and outputs to understand the implementation patterns.
 
 ---
 
-## API Documentation
+## ✅ Summary
 
-* Swagger
-* OpenAPI
-* Springdoc OpenAPI
-* Interactive API Documentation
-* API Documentation Best Practices
+This repository is now a complete journey from backend Java development to modern full-stack development, covering both Spring-based microservices and Angular-based frontend applications.
 
----
-
-# 📂 Repository Structure
 
 ```
 CTS_Digital_Nurture_5.0
