@@ -39,6 +39,7 @@ This repository now covers:
 - Microservices architecture and service discovery
 - Angular frontend development with components, forms, services, and routing
 - State management and unit testing in Angular
+- Advanced full-stack projects and capstone exercises
 
 ---
 
@@ -92,6 +93,15 @@ Topics covered include:
 - Interceptors and NgRx state management
 - Jasmine and Karma testing
 
+### Week 6 – Advanced Projects and Capstone
+
+Topics covered include:
+- End-to-end project implementation
+- Integration of frontend and backend
+- Advanced Angular patterns
+- Full-stack application development
+- Project-based learning with practical exercises
+
 ---
 
 ## 📂 Repository Structure
@@ -101,6 +111,7 @@ Topics covered include:
 - week_3/ – REST API and Spring REST handson projects
 - week_4/ – Microservices hands-on including account service, loan service, Eureka server, and API gateway
 - week_5/ – Angular learning modules and projects covering components, forms, routing, services, and state management
+- week_6/ – Advanced projects and capstone exercises for full-stack application development
 
 ---
 
@@ -145,6 +156,12 @@ Digital_nurture/
 │   ├── HANDS-ON-8-HTTP-Client-Observables-Interceptors/
 │   ├── HANDS-ON-9-State-Management-NgRx/
 │   └── HANDS-ON-10-Unit-Testing-Jasmine-Karma/
+├── week_6/
+│   ├── Task 1/
+│   ├── Task 2/
+│   ├── Task 3/
+│   ├── Task 4/
+│   └── Task 5/
 └── README.md
 ```
 
